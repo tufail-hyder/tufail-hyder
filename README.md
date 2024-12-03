@@ -17,5 +17,8 @@ I'm a Tufail Hyder a passionate Computer Science undergraduate at COMSATS Univer
 ![Pandas](https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=150458&logoColor=white&labelColor=&style=for-the-badge) 
 ![NumPy](https://img.shields.io/static/v1?message=NumPy&logo=numpy&label=&color=013243&logoColor=white&labelColor=&style=for-the-badge) 
 ![Matplotlib](https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=11557C&logoColor=white&labelColor=&style=for-the-badge)
+![SciPy](https://img.shields.io/static/v1?message=SciPy&logo=sci-py&label=&color=8C3A2F&logoColor=white&labelColor=&style=for-the-badge)
+![SQL](https://img.shields.io/static/v1?message=SQL&logo=sqlite&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge)
+![Plotly](https://img.shields.io/static/v1?message=Plotly&logo=plotly&label=&color=3E9AD9&logoColor=white&labelColor=&style=for-the-badge)
 
 </div>
