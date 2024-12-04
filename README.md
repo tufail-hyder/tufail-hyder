@@ -14,5 +14,5 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
     <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" alt="Java">
     <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=7952B3&logoColor=white&labelColor=&style=for-the-badge" alt="Bootstrap">
     <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" alt="React">
-   [SQL](https://img.shields.io/static/v1?message=SQL&logo=sqlite&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge)
+   <img src="https://img.shields.io/static/v1?message=SQL&logo=sqlite&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge" alt="SQL">
 </div>
