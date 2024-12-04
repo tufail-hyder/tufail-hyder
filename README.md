@@ -15,3 +15,13 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
 ![Plotly](https://img.shields.io/static/v1?message=Plotly&logo=plotly&label=&color=3E9AD9&logoColor=white&labelColor=&style=for-the-badge)
 
 </div>
+<div align="center">
+    <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" alt="HTML">
+    <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge" alt="CSS">
+    <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" alt="JavaScript">
+    <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&labelColor=&style=for-the-badge" alt="C">
+    <img src="https://img.shields.io/static/v1?message=C%23&logo=csharp&label=&color=239120&logoColor=white&labelColor=&style=for-the-badge" alt="C#">
+    <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" alt="Java">
+    <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=7952B3&logoColor=white&labelColor=&style=for-the-badge" alt="Bootstrap">
+    <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" alt="React">
+</div>
