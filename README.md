@@ -6,16 +6,6 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
 
 
 <div align="center">
-  
-![Pandas](https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=150458&logoColor=white&labelColor=&style=for-the-badge) 
-![NumPy](https://img.shields.io/static/v1?message=NumPy&logo=numpy&label=&color=013243&logoColor=white&labelColor=&style=for-the-badge) 
-![Matplotlib](https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=11557C&logoColor=white&labelColor=&style=for-the-badge)
-![SciPy](https://img.shields.io/static/v1?message=SciPy&logo=sci-py&label=&color=8C3A2F&logoColor=white&labelColor=&style=for-the-badge)
-![SQL](https://img.shields.io/static/v1?message=SQL&logo=sqlite&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge)
-![Plotly](https://img.shields.io/static/v1?message=Plotly&logo=plotly&label=&color=3E9AD9&logoColor=white&labelColor=&style=for-the-badge)
-
-</div>
-<div align="center">
     <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" alt="HTML">
     <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge" alt="CSS">
     <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" alt="JavaScript">
@@ -24,4 +14,5 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
     <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" alt="Java">
     <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=7952B3&logoColor=white&labelColor=&style=for-the-badge" alt="Bootstrap">
     <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" alt="React">
+  ![SQL](https://img.shields.io/static/v1?message=SQL&logo=sqlite&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge)
 </div>
