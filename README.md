@@ -1,15 +1,8 @@
-👋 Hi there! 
-I'm a Tufail Hyder a passionate Computer Science undergraduate at COMSATS University Islamabad, with a keen interest in exploring and mastering various domains of Data Science.
+As an aspiring Data Analyst with a strong foundation in data analytics, I am currently pursuing my undergraduate studies in Computer Science at COMSATS University, Abbottabad. My academic journey has equipped me with a diverse skill set, including proficiency in JavaScript, HTML, CSS, Java, JavaScript, C sharp and C. Alongside my technical expertise, I have a passion for football, which has honed my teamwork and leadership skills.
 
-🌟 Over time, I have gained proficiency in several areas of Data Science, including:
+In addition to my academic and technical background, I am involved with GoVenture, a customized tour and travel company dedicated to providing unique experiences across Pakistan. Our mission is to engage audiences in discovering unexplored destinations, rich cultural heritage, and thrilling adventures. This role has allowed me to apply my analytical skills to understand market trends and enhance customer experiences.
 
-- Data Analytics
-- Data Visualization
-- Statistical Analysis
-
-💡 I'm constantly learning and evolving, delving into the latest tools and techniques to extract insights and solve real-world problems using data.
-
-🎓 Currently, I'm honing my skills in fields like Big Data, AI, and Predictive Modeling while working on projects that merge theory with practical application.
+I am excited to leverage my skills and experiences in data analytics to uncover insights, drive data-driven decisions, and contribute to impactful projects.
 
 
 <div align="center">
