@@ -19,6 +19,9 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
     <img src="https://img.shields.io/static/v1?message=DSA&logo=code&label=&color=blueviolet&logoColor=white&labelColor=&style=for-the-badge" alt="DSA">
    <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" alt="MySQL">
    <img src="https://img.shields.io/static/v1?message=.NET&logo=dotnet&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" alt=".NET">
+   <img src="https://img.shields.io/static/v1?message=.NET%20Core&logo=dotnet&label=&color=5C2D91&logoColor=white&labelColor=&style=for-the-badge" alt=".NET Core">
+<img src="https://img.shields.io/static/v1?message=ASP.NET&logo=dotnet&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" alt="ASP.NET">
+
 
 
 
