@@ -21,3 +21,4 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
 
 </div>
 <div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto"> -Languages-Frameworks-Tools- </h3><a id="user-content---languages-frameworks-tools--" class="anchor" aria-label="Permalink:  Languages Frameworks Tools- " href="#--languages-frameworks-tools--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
+<img src="https://camo.githubusercontent.com/691d4d017b659a6da8687ab7cc42cdd469e6b3ddc532687e56e11cd09156564f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c626f6f7473747261702c68746d6c2c6373732c7673636f64652c6769746875622c6669676d612c6769742c63" data-canonical-src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,c" style="max-width: 100%;">
