@@ -28,9 +28,23 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
 <!-- Section Heading -->
 <div class="markdown-heading" dir="auto">
   <h3 align="center" tabindex="-1" class="heading-element" dir="auto">
-     Languages - Frameworks - Tools 
+    - Tools & Frameworks -
   </h3>
 </div>
+
+<!-- Centered Icons -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,anaconda,vscode,github,git,linux,dart,dotnet,bootstrap,react,mongodb,nodejs,flutter" alt="Tools and Frameworks" style="max-width: 100%;">
+</div>
+
+<!-- Additional Icons (not on skillicons.dev, added via shields.io) -->
+<div align="center" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=for-the-badge" alt="NetBeans">
+  <img src="https://img.shields.io/badge/DevC++-003B57?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="Dev C++">
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL Workbench">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge" alt="Cisco Packet Tracer">
+</div>
+
 
 <!-- Centered Skill Icons -->
 <div align="center">
