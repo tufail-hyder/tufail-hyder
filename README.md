@@ -1,10 +1,17 @@
-As an aspiring Data Analyst with a strong foundation in data analytics, I am currently pursuing my undergraduate studies in Computer Science at COMSATS University, Abbottabad. My academic journey has equipped me with a diverse skill set, including proficiency in JavaScript, HTML, CSS, Dart, SQL , Java, C sharp and C. Alongside my technical expertise, I have a passion for football, which has honed my teamwork and leadership skills.
+<!-- Profile Introduction -->
+<p>
+As an aspiring Data Analyst with a strong foundation in data analytics, I am currently pursuing my undergraduate studies in Computer Science at COMSATS University, Abbottabad. My academic journey has equipped me with a diverse skill set, including proficiency in JavaScript, HTML, CSS, Dart, SQL, Java, C#, and C. Alongside my technical expertise, I have a passion for football, which has honed my teamwork and leadership skills.
+</p>
 
+<p>
 In addition to my academic and technical background, I am involved with GoVenture, a customized tour and travel company dedicated to providing unique experiences across Pakistan. Our mission is to engage audiences in discovering unexplored destinations, rich cultural heritage, and thrilling adventures. This role has allowed me to apply my analytical skills to understand market trends and enhance customer experiences.
+</p>
 
+<p>
 I am excited to leverage my skills and experiences in data analytics to uncover insights, drive data-driven decisions, and contribute to impactful projects.
+</p>
 
-
+<!-- Language and Tool Badges -->
 <div align="center">
     <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" alt="HTML">
     <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge" alt="CSS">
@@ -13,13 +20,19 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
     <img src="https://img.shields.io/static/v1?message=C%23&logo=csharp&label=&color=239120&logoColor=white&labelColor=&style=for-the-badge" alt="C#">
     <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" alt="Java">
     <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=7952B3&logoColor=white&labelColor=&style=for-the-badge" alt="Bootstrap">
-    <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" alt="React">
-   <img src="https://img.shields.io/static/v1?message=SQL&logo=sqlite&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge" alt="SQL">
     <img src="https://img.shields.io/static/v1?message=Flutter&logo=flutter&label=&color=02569B&logoColor=white&labelColor=&style=for-the-badge" alt="Flutter">
+    <img src="https://img.shields.io/static/v1?message=SQL&logo=sqlite&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge" alt="SQL">
     <img src="https://img.shields.io/static/v1?message=DSA&logo=code&label=&color=blueviolet&logoColor=white&labelColor=&style=for-the-badge" alt="DSA">
-   <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" alt="MySQL">
-
 </div>
-<div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto"> -Languages-Frameworks-Tools- </h3><a id="user-content---languages-frameworks-tools--" class="anchor" aria-label="Permalink:  Languages Frameworks Tools- " href="#--languages-frameworks-tools--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
-<img src="https://camo.githubusercontent.com/691d4d017b659a6da8687ab7cc42cdd469e6b3ddc532687e56e11cd09156564f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c626f6f7473747261702c68746d6c2c6373732c7673636f64652c6769746875622c6669676d612c6769742c63" data-canonical-src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,c" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/4ffce03c732c26a7c6a86318cac03e1ade60ad54eaea536017722075d0ef5699/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e2c6a6176617363726970742c74656e736f72666c6f772c6d7973716c2c7079746f7263682c616e61636f6e64612c6f70656e63762c6c696e7578" data-canonical-src="https://skillicons.dev/icons?i=python,javascript,tensorflow,mysql,pytorch,anaconda,opencv,linux" style="max-width: 100%;">
+
+<!-- Section Heading -->
+<div class="markdown-heading" dir="auto">
+  <h3 align="center" tabindex="-1" class="heading-element" dir="auto">
+     Languages - Frameworks - Tools 
+  </h3>
+</div>
+
+<!-- Centered Skill Icons -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,dart,firebase,tensorflow,pytorch,anaconda,opencv,linux" alt="Tools and Libraries" style="max-width: 100%;">
+</div>
