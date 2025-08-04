@@ -35,6 +35,10 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
 
 <!-- Centered Icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,anaconda,vscode,github,git,linux,dart,dotnet,bootstrap,react,mongodb,nodejs,flutter,Dev C, cisco packet tracer alt="Tools and Frameworks" style="max-width: 100%;">
+  <img src="https://skillicons.dev/icons?i=firebase,anaconda,vscode,github,git,linux,dart,dotnet,bootstrap,react,mongodb,nodejs,flutter alt="Tools and Frameworks" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Dev%20C++-blue?logo=c%2b%2b&logoColor=white&style=for-the-badge" alt="Dev C++">
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge" alt="Cisco Packet Tracer">
+<img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL Workbench">
 </div>
+
 
