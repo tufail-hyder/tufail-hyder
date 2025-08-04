@@ -23,9 +23,6 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
     <img src="https://img.shields.io/static/v1?message=Flutter&logo=flutter&label=&color=02569B&logoColor=white&labelColor=&style=for-the-badge" alt="Flutter">
     <img src="https://img.shields.io/static/v1?message=SQL&logo=sqlite&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge" alt="SQL">
     <img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=for-the-badge" alt="NetBeans">
-  <img src="https://img.shields.io/badge/DevC++-003B57?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="Dev C++">
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL Workbench">
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge" alt="Cisco Packet Tracer">
 </div>
 </div>
 
@@ -38,5 +35,6 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
 
 <!-- Centered Icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,anaconda,vscode,github,git,linux,dart,dotnet,bootstrap,react,mongodb,nodejs,flutter" alt="Tools and Frameworks" style="max-width: 100%;">
+  <img src="https://skillicons.dev/icons?i=firebase,anaconda,vscode,github,git,linux,dart,dotnet,bootstrap,react,mongodb,nodejs,flutter,Dev C, cisco packet tracer alt="Tools and Frameworks" style="max-width: 100%;">
 </div>
+
