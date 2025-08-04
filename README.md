@@ -38,7 +38,18 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
   <img src="https://skillicons.dev/icons?i=firebase,anaconda,vscode,github,git,linux,dart,dotnet,bootstrap,react,mongodb,nodejs,flutter" alt="Tools and Frameworks" style="max-width: 100%;">
 </div>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Muizzkarim10/Muizzkarim10/output/github-contribution-grid-snake-dark.svg"><img src="https://raw.githubusercontent.com/Muizzkarim10/Muizzkarim10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://raw.githubusercontent.com/Muizzkarim10/Muizzkarim10/output/github-contribution-grid-snake-dark.svg" target="_blank" rel="noopener noreferrer nofollow">
+    <img 
+      src="https://raw.githubusercontent.com/Muizzkarim10/Muizzkarim10/output/github-contribution-grid-snake-dark.svg" 
+      alt="GitHub Contribution Snake" 
+      style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;"
+      onmouseover="this.style.transform='scale(1.03)'" 
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+</div>
+
 
 
 
