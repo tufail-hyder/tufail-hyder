@@ -1,15 +1,20 @@
 <!-- Profile Introduction -->
 <p>
-As an aspiring Data Analyst with a strong foundation in data analytics, I am currently pursuing my undergraduate studies in Computer Science at COMSATS University, Abbottabad. My academic journey has equipped me with a diverse skill set, including proficiency in JavaScript, HTML, CSS, Dart, SQL, Java, C#, and C. Alongside my technical expertise, I have a passion for football, which has honed my teamwork and leadership skills.
+<strong>Aspiring Data Analyst | Computer Science Undergraduate | COMSATS University, Abbottabad</strong>
 </p>
 
 <p>
-In addition to my academic and technical background, I am involved with GoVenture, a customized tour and travel company dedicated to providing unique experiences across Pakistan. Our mission is to engage audiences in discovering unexplored destinations, rich cultural heritage, and thrilling adventures. This role has allowed me to apply my analytical skills to understand market trends and enhance customer experiences.
+I am an aspiring data analyst with a solid foundation in data analytics and programming, currently pursuing my BSc in Computer Science. My technical skills include JavaScript, HTML, CSS, Dart, SQL, Java, C#, and C. I enjoy applying analytical thinking to solve problems and uncover insights from data.
 </p>
 
 <p>
-I am excited to leverage my skills and experiences in data analytics to uncover insights, drive data-driven decisions, and contribute to impactful projects.
+Beyond academics, I am part of <strong>GoVenture</strong>, a customized tour and travel company promoting unexplored destinations and cultural heritage across Pakistan. In this role, I analyze market trends and enhance customer experiences through data-driven strategies.
 </p>
+
+<p>
+Passionate about football, I bring teamwork, discipline, and leadership to every project I work on. I aim to leverage my skills to contribute to impactful, insight-driven projects.
+</p>
+
 
 <!-- Language and Tool Badges -->
 <div align="center">
@@ -54,6 +59,7 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
     />
   </a>
 </div>
+
 
 
 
