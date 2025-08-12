@@ -22,7 +22,12 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
     <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=7952B3&logoColor=white&labelColor=&style=for-the-badge" alt="Bootstrap">
     <img src="https://img.shields.io/static/v1?message=Flutter&logo=flutter&label=&color=02569B&logoColor=white&labelColor=&style=for-the-badge" alt="Flutter">
     <img src="https://img.shields.io/static/v1?message=SQL&logo=sqlite&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge" alt="SQL">
-    <img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=for-the-badge" alt="NetBeans">
+    <img src="https://img.shields.io/static/v1?message=Dart&logo=dart&label=&color=0175C2&logoColor=white&labelColor=&style=for-the-badge" alt="Dart">
+    <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" alt="Python">
+    <img src="https://img.shields.io/static/v1?message=JFlex&logo=java&label=&color=FF9800&logoColor=white&labelColor=&style=for-the-badge" alt="JFlex">
+
+
+
 </div>
 </div>
 
@@ -49,6 +54,7 @@ I am excited to leverage my skills and experiences in data analytics to uncover 
     />
   </a>
 </div>
+
 
 
 
